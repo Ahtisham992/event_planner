@@ -1,0 +1,15 @@
+event-planner/
+├── models/
+│   ├── User.js
+│   └── Event.js
+├── routes/
+│   ├── auth.js
+│   └── events.js
+├── middleware/
+│   └── authMiddleware.js
+├── reminderService.js
+├── app.js
+├── server.js
+├── .env
+├── tests/
+│   └── event.test.js
